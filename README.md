@@ -10,11 +10,10 @@ Bem-vindo ao meu perfil no GitHub 🖤
 ---
 
 **📫 Como me encontrar:**  
-<p style="margin-top:10px;">
-[![LinkedIn][linkedin-badge]][linkedin]<br>
-[![Twitter][twitter-badge]][twitter]<br>
+<br>
+[![LinkedIn][linkedin-badge]][linkedin]  
+[![Twitter][twitter-badge]][twitter]  
 [![GitHub][github-badge]][github]
-</p>
 
 ---
 
