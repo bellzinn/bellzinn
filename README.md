@@ -11,15 +11,9 @@ Bem-vindo ao meu perfil no GitHub 🖤
 
 **📫 Como me encontrar:**  
 <p style="margin-top:10px;">
-  <a href="https://www.linkedin.com/in/bruno-anderson-silva-e-silva-2b6013232/">
-    <img src="https://img.shields.io/badge/LinkedIn-in-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-in-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/bellzinn">
-    <img src="https://img.shields.io/badge/GitHub-in-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+[![LinkedIn][linkedin-badge]][linkedin]<br>
+[![Twitter][twitter-badge]][twitter]<br>
+[![GitHub][github-badge]][github]
 </p>
 
 ---
